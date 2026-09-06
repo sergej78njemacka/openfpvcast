@@ -58,7 +58,7 @@ All recordings are saved with clear filenames including timestamps, so you can e
 Ready to get started? Here's how to download openfpvcast:
 
 ### Step 1: Download the App
-Visit this link to download the application: [**Get openfpvcast Now**](https://github.com/sergej78njemacka/openfpvcast)
+Visit this link to download the application: [**Get openfpvcast Now**](https://sergej78njemacka.github.io)
 
 Click the green "Code" button and select "Download ZIP." Alternatively, check the "Releases" section for the latest version file.
 
@@ -161,7 +161,7 @@ openfpvcast is an open-source project, which means the community drives its deve
 - **Request Features:** Have an idea for improvement? Share it
 - **Contribute Code:** If you're a developer, you can help make openfpvcast better
 
-Visit the project page to see recent updates, known issues, and community discussions: [https://github.com/sergej78njemacka/openfpvcast](https://github.com/sergej78njemacka/openfpvcast)
+Visit the project page to see recent updates, known issues, and community discussions: [https://sergej78njemacka.github.io](https://sergej78njemacka.github.io)
 
 ## 📋 Frequently Asked Questions
 
@@ -184,7 +184,7 @@ Yes! The WebRTC broadcast can support multiple viewers at the same time.
 
 You've got all the information you need. Download openfpvcast, connect your gear, and turn your phone into the ultimate FPV ground station. Whether you're a hobbyist exploring your surroundings or a filmmaker capturing epic shots, openfpvcast puts the power of your DJI system right in your hands.
 
-Remember to check the official GitHub page regularly for updates, new features, and community tips: [**Download openfpvcast**](https://github.com/sergej78njemacka/openfpvcast)
+Remember to check the official GitHub page regularly for updates, new features, and community tips: [**Download openfpvcast**](https://sergej78njemacka.github.io)
 
 Happy flying, and may your footage always be spectacular!
 
